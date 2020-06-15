@@ -10,5 +10,5 @@ You may install:<br>
 ```conda install matplotlib```<br>
 ```conda install seaborn```<br>
 ### MNSIT dataset is used in the project.<br>
-Autoencoder built using deeplearning models
+Autoencoder built using deeplearning models.
 ![img](https://github.com/Surajv311/Image-denoising-using-autoencoder/blob/master/img.jpg)
