@@ -12,4 +12,4 @@ You may install :<br>
 
 ### MNSIT dataset is used in the project.<br>
 Autoencoder built using deeplearning models.
-![img](https://github.com/Surajv311/Image-denoising-using-autoencoder/blob/master/img.jpg)
+![img](https://github.com/Surajv311/Image-denoising-using-autoencoder/blob/master/images/img.jpg)
